@@ -6,7 +6,7 @@
     <router-link to="/ProductInfo">ProductInfo</router-link> |
     <router-link to="SalesRecordView">Sales Record</router-link>
   </nav>
-  <router-view/>
+  <router-view></router-view>
 </template>
 
 <style>

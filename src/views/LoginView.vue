@@ -7,7 +7,7 @@
     <router-link to="/ProductInfo">ProductInfo</router-link> |
     <router-link to="SalesRecordView">Sales Record</router-link>
   </nav>
-  <router-view/>
+  <router-view></router-view>
     <input type="text" placeholder="帳號" required>
     <input type="password" placeholder="密碼" required>
     <button type="submit" @click="login">登入</button>
